@@ -1,2 +1,2 @@
-# Bilgi-Sistem-G-venli-i-Rapor
+# Bilgi-Sistem-Güvenliği-Rapor
 Bilgi Sistem Güvenliği Bireysel Rapor
